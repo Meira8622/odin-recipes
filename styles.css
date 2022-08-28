@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+p {
+    
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+
+}
+
+h3 {
+    
+}
+
+li {
+    
+}
+
+.imgs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.travel{
+    color: aliceblue;
+    text-align: center;
+}
+
+a:visited {
+    color: aliceblue;
+}
+
+a:hover {
+    color:bisque
+}
